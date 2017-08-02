@@ -1,0 +1,6 @@
+[submodule "pcb/libs/kicad-ESP8266"]
+	path = pcb/libs/kicad-ESP8266
+	url = https://github.com/jdunmire/kicad-ESP8266.git
+[submodule "pcb/libs/MSP430_FireFlyJar"]
+	path = pcb/libs/MSP430_FireFlyJar
+	url = https://github.com/AndrewTaft/MSP430_FireFlyJar.git
