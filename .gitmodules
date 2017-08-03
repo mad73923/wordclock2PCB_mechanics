@@ -4,3 +4,6 @@
 [submodule "pcb/libs/MSP430_FireFlyJar"]
 	path = pcb/libs/MSP430_FireFlyJar
 	url = https://github.com/AndrewTaft/MSP430_FireFlyJar.git
+[submodule "pcb/libs/mysensors-kicad"]
+	path = pcb/libs/mysensors-kicad
+	url = https://github.com/mysensors-kicad/mysensors_symbols.git

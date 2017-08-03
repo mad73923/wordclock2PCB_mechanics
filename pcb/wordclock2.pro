@@ -1,4 +1,4 @@
-update=Mi 02 Aug 2017 22:32:56 CEST
+update=Do 03 Aug 2017 12:43:57 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -126,3 +126,4 @@ LibName94=Zilog
 LibName95=libs/stm32L433
 LibName96=libs/kicad-ESP8266/ESP8266
 LibName97=libs/MSP430_FireFlyJar/Kicad/FireFlyLid/FireFlyLid-cache
+LibName98=libs/mysensors-kicad/mysensors_sensors
