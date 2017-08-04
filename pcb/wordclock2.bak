@@ -321,7 +321,7 @@ F 3 "" V 5950 1510 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	6150 1450 6150 1900
+	6150 1200 6150 1900
 $Comp
 L +3.3V #PWR?
 U 1 1 5983155C
@@ -840,8 +840,8 @@ Wire Wire Line
 Wire Wire Line
 	4600 700  4600 650 
 Wire Wire Line
-	5150 900  5550 900 
-Text Label 5200 900  0    60   ~ 0
+	5150 900  5800 900 
+Text Label 5200 800  0    60   ~ 0
 BOOT0
 Wire Wire Line
 	4250 900  4650 900 
@@ -966,6 +966,33 @@ Text Label 4050 800  0    60   ~ 0
 UART_DBG_TX
 Wire Wire Line
 	5150 800  5800 800 
-Text Label 5150 800  0    60   ~ 0
+Text Label 5200 900  0    60   ~ 0
 UART_DBG_RX
+$Comp
+L Jumper_NO_Small JP?
+U 1 1 5984193D
+P 6050 1200
+F 0 "JP?" H 6050 1280 50  0000 C CNN
+F 1 "Jumper_NO_Small" H 6060 1140 50  0000 C CNN
+F 2 "" H 6050 1200 50  0001 C CNN
+F 3 "" H 6050 1200 50  0001 C CNN
+	1    6050 1200
+	1    0    0    -1  
+$EndComp
+Connection ~ 6150 1450
+$Comp
+L +3.3V #PWR?
+U 1 1 59841BC2
+P 5900 1150
+F 0 "#PWR?" H 5900 1000 50  0001 C CNN
+F 1 "+3.3V" H 5900 1290 50  0000 C CNN
+F 2 "" H 5900 1150 50  0001 C CNN
+F 3 "" H 5900 1150 50  0001 C CNN
+	1    5900 1150
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5950 1200 5900 1200
+Wire Wire Line
+	5900 1200 5900 1150
 $EndSCHEMATC
