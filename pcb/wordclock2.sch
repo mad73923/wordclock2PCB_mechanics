@@ -1529,4 +1529,20 @@ F 3 "" H 6400 3350 50  0001 C CNN
 	1    6150 3450
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	7350 3250 8050 3250
+Wire Wire Line
+	7350 3350 8050 3350
+Text Label 7400 3250 0    60   ~ 0
+UART_OTA_TX
+Text Label 7400 3350 0    60   ~ 0
+UART_OTA_RX
+Wire Wire Line
+	9800 5250 10500 5250
+Wire Wire Line
+	7300 5250 8000 5250
+Text Label 9850 5250 0    60   ~ 0
+UART_OTA_TX
+Text Label 7350 5250 0    60   ~ 0
+UART_OTA_RX
 $EndSCHEMATC
