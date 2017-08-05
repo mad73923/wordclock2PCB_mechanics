@@ -1285,4 +1285,17 @@ Wire Wire Line
 	1200 6600 1150 6600
 Wire Wire Line
 	1150 6600 1150 6750
+Wire Wire Line
+	1200 6700 1150 6700
+Connection ~ 1150 6700
+Text Notes 1350 7050 0    60   ~ 0
+Addr: 1001 010x
+Wire Wire Line
+	5100 4600 4450 4600
+Text Label 4500 4600 0    60   ~ 0
+I2C_INT
+Wire Wire Line
+	2300 6700 2750 6700
+Text Label 2350 6700 0    60   ~ 0
+I2C_INT
 $EndSCHEMATC
