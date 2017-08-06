@@ -133,11 +133,11 @@ module pcb(){
             translate([-pcbHoleGap,pcbsize[1]-pcbHoleGap,1])
             cylinder(5,pcbHoleR,pcbHoleR,true);
         }
-        translate([pcbsize[0]/2,8+2/3,0])
+        translate([pcbsize[0]/2-3,8+2/3,0])
         cylinder(5,5,5,true);
     }
 }
 
 holeFrame();
-translate([0,0,10]) mask();
+//translate([0,0,10]) mask();
 translate(pcbroot) pcb();

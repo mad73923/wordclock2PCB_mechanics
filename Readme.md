@@ -1,6 +1,9 @@
 ## Todos
 - NRST C?
-- ESP Reset
-- ESP GPIO2 Pullup? High/Low active? -> switch
+- ESP GPIO2 Pullup?
 - SD CS
 - Crystals C?
+
+6.666 x 13.833
+
+8+3+2/3
