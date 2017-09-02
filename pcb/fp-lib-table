@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name wordclockFB)(type KiCad)(uri "$(KIPRJMOD)/wordclockFB.pretty")(options "")(descr ""))
+)
