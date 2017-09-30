@@ -1,4 +1,4 @@
-update=Do 03 Aug 2017 12:43:57 CEST
+update=Sa 23 Sep 2017 18:14:41 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=
@@ -127,3 +125,5 @@ LibName95=libs/stm32L433
 LibName96=libs/kicad-ESP8266/ESP8266
 LibName97=libs/MSP430_FireFlyJar/Kicad/FireFlyLid/FireFlyLid-cache
 LibName98=libs/mysensors-kicad/mysensors_sensors
+[general]
+version=1
