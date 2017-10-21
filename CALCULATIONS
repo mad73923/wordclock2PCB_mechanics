@@ -1,0 +1,12 @@
+30 LEDs / m == 9 Watt / m
+@5V = 1,8 A / m
+
+Dot-matrix = 10*11 LEDs = 110
+Minutes-LEDs = 4
+================
+Total: 114 LEDs
+=> 3,8 m Strip
+=> 6,84 A
+
+TODO:
+entprellung user btn
