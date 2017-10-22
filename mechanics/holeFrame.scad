@@ -49,10 +49,10 @@ module holeFrame(){
             cylinder(30,5,5,true);
         }
         // PCB cutout
-        translate([388/2-100/3,11*100/3+10,-1]){
+        translate([388/2-100/3,11*100/3+8.8,-1]){
             roundedRect([45,30,15],5);
         }
-        translate([388/2+100/3,11*100/3+10,-1]){
+        translate([388/2+100/3,11*100/3+8.8,-1]){
             roundedRect([45,30,15],5);
         }
         //nose
