@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/matthias/gitRepositories/wordclock2/pcb/wordclock2.sch)
-    (date "So 22 Okt 2017 10:47:57 CEST")
+    (date "So 22 Okt 2017 20:39:42 CEST")
     (tool "Eeschema 4.0.7-e2-6376~58~ubuntu14.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -53,7 +53,7 @@
       (tstamp 5983087C))
     (comp (ref BT1)
       (value Battery_Cell)
-      (footprint Connect:CR2032H)
+      (footprint wordclockFB:LR44)
       (libsource (lib device) (part Battery_Cell))
       (sheetpath (names /) (tstamps /))
       (tstamp 598313DF))
@@ -697,10 +697,10 @@
       (uri /usr/share/kicad/library/transistors.lib))
     (library (logical stm32L433)
       (uri /home/matthias/gitRepositories/wordclock2/pcb/libs/stm32L433.lib))
-    (library (logical FireFlyLid-cache)
-      (uri /home/matthias/gitRepositories/wordclock2/pcb/libs/MSP430_FireFlyJar/Kicad/FireFlyLid/FireFlyLid-cache.lib))
     (library (logical ESP8266)
       (uri /home/matthias/gitRepositories/wordclock2/pcb/libs/kicad-ESP8266/ESP8266.lib))
+    (library (logical FireFlyLid-cache)
+      (uri /home/matthias/gitRepositories/wordclock2/pcb/libs/MSP430_FireFlyJar/Kicad/FireFlyLid/FireFlyLid-cache.lib))
     (library (logical mysensors_sensors)
       (uri /home/matthias/gitRepositories/wordclock2/pcb/libs/mysensors-kicad/mysensors_sensors.lib)))
   (nets
