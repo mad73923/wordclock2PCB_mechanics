@@ -433,17 +433,6 @@ Wire Wire Line
 Wire Wire Line
 	7650 1950 7650 2050
 Connection ~ 7650 2000
-$Comp
-L Crystal Y2
-U 1 1 5983242F
-P 4300 2150
-F 0 "Y2" H 4300 2300 50  0000 C CNN
-F 1 "32.768kHz" H 4300 2000 50  0000 C CNN
-F 2 "Crystals:Crystal_SMD_SeikoEpson_MC306-4pin_8.0x3.2mm_HandSoldering" H 4300 2150 50  0001 C CNN
-F 3 "" H 4300 2150 50  0001 C CNN
-	1    4300 2150
-	0    1    1    0   
-$EndComp
 Wire Wire Line
 	5100 2250 4700 2250
 Wire Wire Line
@@ -1406,7 +1395,7 @@ L C C3
 U 1 1 5986AF62
 P 2500 7250
 F 0 "C3" H 2525 7350 50  0000 L CNN
-F 1 "1u" H 2525 7150 50  0000 L CNN
+F 1 "100n" H 2525 7150 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0805_HandSoldering" H 2538 7100 50  0001 C CNN
 F 3 "" H 2500 7250 50  0001 C CNN
 	1    2500 7250
@@ -1955,4 +1944,17 @@ Connection ~ 7900 1600
 Wire Wire Line
 	8150 2000 8150 1950
 Connection ~ 7900 2000
+$Comp
+L Crystal_GND23 Y2
+U 1 1 59F49FBD
+P 4300 2150
+F 0 "Y2" H 4425 2350 50  0000 L CNN
+F 1 "Crystal_GND23" H 4425 2275 50  0000 L CNN
+F 2 "Crystals:Crystal_SMD_SeikoEpson_MC306-4pin_8.0x3.2mm_HandSoldering" H 4300 2150 50  0001 C CNN
+F 3 "" H 4300 2150 50  0001 C CNN
+	1    4300 2150
+	0    1    1    0   
+$EndComp
+NoConn ~ 4500 2150
+NoConn ~ 4100 2150
 $EndSCHEMATC
