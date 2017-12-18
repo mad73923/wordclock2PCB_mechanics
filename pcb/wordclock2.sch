@@ -251,7 +251,7 @@ U 1 1 5983087C
 P 3450 1100
 F 0 "C6" H 3475 1200 50  0000 L CNN
 F 1 "10u" H 3475 1000 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3488 950 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 3488 950 50  0001 C CNN
 F 3 "" H 3450 1100 50  0001 C CNN
 	1    3450 1100
 	1    0    0    -1  
@@ -366,7 +366,7 @@ U 1 1 59831C18
 P 7400 1800
 F 0 "C10" H 7425 1900 50  0000 L CNN
 F 1 "100n" H 7425 1700 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 7438 1650 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 7438 1650 50  0001 C CNN
 F 3 "" H 7400 1800 50  0001 C CNN
 	1    7400 1800
 	1    0    0    -1  
@@ -377,7 +377,7 @@ U 1 1 59831CBE
 P 7650 1800
 F 0 "C11" H 7675 1900 50  0000 L CNN
 F 1 "100n" H 7675 1700 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 7688 1650 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 7688 1650 50  0001 C CNN
 F 3 "" H 7650 1800 50  0001 C CNN
 	1    7650 1800
 	1    0    0    -1  
@@ -388,7 +388,7 @@ U 1 1 59831CF9
 P 7900 1800
 F 0 "C12" H 7925 1900 50  0000 L CNN
 F 1 "100n" H 7925 1700 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 7938 1650 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 7938 1650 50  0001 C CNN
 F 3 "" H 7900 1800 50  0001 C CNN
 	1    7900 1800
 	1    0    0    -1  
@@ -460,7 +460,7 @@ U 1 1 59832792
 P 3950 1950
 F 0 "C7" H 3975 2050 50  0000 L CNN
 F 1 "22p" H 3975 1850 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3988 1800 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 3988 1800 50  0001 C CNN
 F 3 "" H 3950 1950 50  0001 C CNN
 	1    3950 1950
 	0    -1   -1   0   
@@ -472,7 +472,7 @@ U 1 1 59832872
 P 3950 2350
 F 0 "C8" H 3975 2450 50  0000 L CNN
 F 1 "22p" H 3975 2250 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3988 2200 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 3988 2200 50  0001 C CNN
 F 3 "" H 3950 2350 50  0001 C CNN
 	1    3950 2350
 	0    -1   -1   0   
@@ -500,7 +500,7 @@ U 1 1 5983335E
 P 3200 2450
 F 0 "C4" H 3225 2550 50  0000 L CNN
 F 1 "33p" H 3225 2350 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3238 2300 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 3238 2300 50  0001 C CNN
 F 3 "" H 3200 2450 50  0001 C CNN
 	1    3200 2450
 	0    -1   -1   0   
@@ -511,7 +511,7 @@ U 1 1 598333C7
 P 3200 2750
 F 0 "C5" H 3225 2850 50  0000 L CNN
 F 1 "33p" H 3225 2650 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3238 2600 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 3238 2600 50  0001 C CNN
 F 3 "" H 3200 2750 50  0001 C CNN
 	1    3200 2750
 	0    -1   -1   0   
@@ -645,7 +645,7 @@ U 1 1 59835DA3
 P 10650 5500
 F 0 "R10" V 10730 5500 50  0000 C CNN
 F 1 "10k" V 10650 5500 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 10580 5500 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 10580 5500 50  0001 C CNN
 F 3 "" H 10650 5500 50  0001 C CNN
 	1    10650 5500
 	1    0    0    -1  
@@ -674,7 +674,7 @@ U 1 1 59837574
 P 4150 2850
 F 0 "R4" V 4230 2850 50  0000 C CNN
 F 1 "10k" V 4150 2850 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4080 2850 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 4080 2850 50  0001 C CNN
 F 3 "" H 4150 2850 50  0001 C CNN
 	1    4150 2850
 	0    1    1    0   
@@ -1329,7 +1329,7 @@ U 1 1 598683E3
 P 1650 3850
 F 0 "R1" V 1730 3850 50  0000 C CNN
 F 1 "512" V 1650 3850 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 1580 3850 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 1580 3850 50  0001 C CNN
 F 3 "" H 1650 3850 50  0001 C CNN
 	1    1650 3850
 	0    -1   -1   0   
@@ -1340,7 +1340,7 @@ U 1 1 598684BB
 P 1650 4150
 F 0 "R2" V 1730 4150 50  0000 C CNN
 F 1 "512" V 1650 4150 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 1580 4150 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 1580 4150 50  0001 C CNN
 F 3 "" H 1650 4150 50  0001 C CNN
 	1    1650 4150
 	0    -1   -1   0   
@@ -1359,7 +1359,7 @@ U 1 1 5986A799
 P 2050 6250
 F 0 "C2" H 2075 6350 50  0000 L CNN
 F 1 "1u" H 2075 6150 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 2088 6100 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 2088 6100 50  0001 C CNN
 F 3 "" H 2050 6250 50  0001 C CNN
 	1    2050 6250
 	1    0    0    -1  
@@ -1396,7 +1396,7 @@ U 1 1 5986AF62
 P 2500 7250
 F 0 "C3" H 2525 7350 50  0000 L CNN
 F 1 "100n" H 2525 7150 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 2538 7100 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 2538 7100 50  0001 C CNN
 F 3 "" H 2500 7250 50  0001 C CNN
 	1    2500 7250
 	1    0    0    -1  
@@ -1433,7 +1433,7 @@ U 1 1 5986D3B2
 P 4150 3100
 F 0 "C9" H 4175 3200 50  0000 L CNN
 F 1 "100n" H 4175 3000 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 4188 2950 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 4188 2950 50  0001 C CNN
 F 3 "" H 4150 3100 50  0001 C CNN
 	1    4150 3100
 	0    1    1    0   
@@ -1447,7 +1447,7 @@ U 1 1 5986F1D1
 P 4300 4250
 F 0 "R6" V 4380 4250 50  0000 C CNN
 F 1 "10k" V 4300 4250 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4230 4250 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 4230 4250 50  0001 C CNN
 F 3 "" H 4300 4250 50  0001 C CNN
 	1    4300 4250
 	0    1    1    0   
@@ -1458,7 +1458,7 @@ U 1 1 5986F2E7
 P 4050 4350
 F 0 "R3" V 4130 4350 50  0000 C CNN
 F 1 "10k" V 4050 4350 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 3980 4350 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 3980 4350 50  0001 C CNN
 F 3 "" H 4050 4350 50  0001 C CNN
 	1    4050 4350
 	0    1    1    0   
@@ -1486,7 +1486,7 @@ U 1 1 598714B1
 P 4300 4600
 F 0 "R7" V 4380 4600 50  0000 C CNN
 F 1 "10k" V 4300 4600 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4230 4600 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 4230 4600 50  0001 C CNN
 F 3 "" H 4300 4600 50  0001 C CNN
 	1    4300 4600
 	0    1    1    0   
@@ -1535,7 +1535,7 @@ U 1 1 598775DA
 P 7150 5250
 F 0 "R8" V 7230 5250 50  0000 C CNN
 F 1 "10k" V 7150 5250 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 7080 5250 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 7080 5250 50  0001 C CNN
 F 3 "" H 7150 5250 50  0001 C CNN
 	1    7150 5250
 	0    1    1    0   
@@ -1563,7 +1563,7 @@ U 1 1 5987A1BD
 P 7200 5550
 F 0 "R9" V 7280 5550 50  0000 C CNN
 F 1 "10k" V 7200 5550 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 7130 5550 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 7130 5550 50  0001 C CNN
 F 3 "" H 7200 5550 50  0001 C CNN
 	1    7200 5550
 	-1   0    0    1   
@@ -1602,7 +1602,7 @@ U 1 1 59880F3A
 P 10950 5650
 F 0 "R11" V 11030 5650 50  0000 C CNN
 F 1 "10k" V 10950 5650 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 10880 5650 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 10880 5650 50  0001 C CNN
 F 3 "" H 10950 5650 50  0001 C CNN
 	1    10950 5650
 	1    0    0    -1  
@@ -1641,7 +1641,7 @@ U 1 1 59881EA8
 P 10700 6050
 F 0 "C13" H 10725 6150 50  0000 L CNN
 F 1 "100n" H 10725 5950 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 10738 5900 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 10738 5900 50  0001 C CNN
 F 3 "" H 10700 6050 50  0001 C CNN
 	1    10700 6050
 	-1   0    0    1   
@@ -1659,7 +1659,7 @@ U 1 1 5988617A
 P 4150 6000
 F 0 "R5" V 4230 6000 50  0000 C CNN
 F 1 "10k" V 4150 6000 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4080 6000 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 4080 6000 50  0001 C CNN
 F 3 "" H 4150 6000 50  0001 C CNN
 	1    4150 6000
 	-1   0    0    1   
@@ -1676,7 +1676,6 @@ NoConn ~ 4250 6800
 NoConn ~ 5100 3650
 NoConn ~ 5100 3750
 NoConn ~ 7350 3150
-NoConn ~ 7350 3650
 NoConn ~ 8650 4650
 NoConn ~ 8750 4650
 NoConn ~ 8850 4650
@@ -1686,7 +1685,6 @@ NoConn ~ 9150 4650
 NoConn ~ 9800 5350
 NoConn ~ 9800 5550
 NoConn ~ 9800 5750
-NoConn ~ 8000 5650
 NoConn ~ 10500 3500
 NoConn ~ 3150 1150
 NoConn ~ 1300 1050
@@ -1711,7 +1709,7 @@ U 1 1 59A6A8AB
 P 1500 4800
 F 0 "R12" V 1580 4800 50  0000 C CNN
 F 1 "1k" V 1500 4800 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 1430 4800 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 1430 4800 50  0001 C CNN
 F 3 "" H 1500 4800 50  0001 C CNN
 	1    1500 4800
 	1    0    0    -1  
@@ -1799,7 +1797,7 @@ U 1 1 59EBA0DF
 P 2250 3350
 F 0 "R13" V 2330 3350 50  0000 C CNN
 F 1 "10k" V 2250 3350 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 2180 3350 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 2180 3350 50  0001 C CNN
 F 3 "" H 2250 3350 50  0001 C CNN
 	1    2250 3350
 	0    -1   -1   0   
@@ -1810,7 +1808,7 @@ U 1 1 59EBB5BE
 P 2250 3600
 F 0 "R14" V 2330 3600 50  0000 C CNN
 F 1 "10k" V 2250 3600 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 2180 3600 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 2180 3600 50  0001 C CNN
 F 3 "" H 2250 3600 50  0001 C CNN
 	1    2250 3600
 	0    -1   -1   0   
@@ -1821,7 +1819,7 @@ U 1 1 59EBB9C3
 P 2600 3750
 F 0 "C14" H 2625 3850 50  0000 L CNN
 F 1 "100n" H 2625 3650 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 2638 3600 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 2638 3600 50  0001 C CNN
 F 3 "" H 2600 3750 50  0001 C CNN
 	1    2600 3750
 	-1   0    0    1   
@@ -1832,7 +1830,7 @@ U 1 1 59EBBB90
 P 3200 3750
 F 0 "C15" H 3225 3850 50  0000 L CNN
 F 1 "100n" H 3225 3650 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 3238 3600 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 3238 3600 50  0001 C CNN
 F 3 "" H 3200 3750 50  0001 C CNN
 	1    3200 3750
 	-1   0    0    1   
@@ -1905,7 +1903,7 @@ U 1 1 59EC1E31
 P 7950 6300
 F 0 "R15" V 8030 6300 50  0000 C CNN
 F 1 "10k" V 7950 6300 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 7880 6300 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 7880 6300 50  0001 C CNN
 F 3 "" H 7950 6300 50  0001 C CNN
 	1    7950 6300
 	0    1    1    0   
@@ -1931,7 +1929,7 @@ U 1 1 59ECB407
 P 8150 1800
 F 0 "C16" H 8175 1900 50  0000 L CNN
 F 1 "100n" H 8175 1700 50  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 8188 1650 50  0001 C CNN
+F 2 "Capacitors_SMD:C_0603_HandSoldering" H 8188 1650 50  0001 C CNN
 F 3 "" H 8150 1800 50  0001 C CNN
 	1    8150 1800
 	1    0    0    -1  
@@ -1956,12 +1954,12 @@ $EndComp
 NoConn ~ 4500 2150
 NoConn ~ 4100 2150
 $Comp
-L R R?
+L R R16
 U 1 1 5A354EE2
 P 4400 3850
-F 0 "R?" V 4480 3850 50  0000 C CNN
+F 0 "R16" V 4480 3850 50  0000 C CNN
 F 1 "100" V 4400 3850 50  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4330 3850 50  0001 C CNN
+F 2 "Resistors_SMD:R_0603_HandSoldering" V 4330 3850 50  0001 C CNN
 F 3 "" H 4400 3850 50  0001 C CNN
 	1    4400 3850
 	0    1    1    0   
@@ -1970,4 +1968,34 @@ Wire Wire Line
 	5100 3850 4550 3850
 Wire Wire Line
 	4250 3850 3800 3850
+Text Notes 750  1850 0    60   ~ 0
+D3 Eingangsschutz. Besser in Reihe? -> Leistungsabfall\nOder zwischen 5V LEDs und 5V digital schalten.
+Text Notes 6200 1150 0    60   ~ 0
+Jumper für Betrieb ohne Batterie
+Text Notes 9600 1450 0    60   ~ 0
+Anschlüsse LEDs\nImax ca. 7A (gesamt)
+Text Notes 5350 650  0    60   ~ 0
+Debug-Interface
+Text Notes 1700 4650 0    60   ~ 0
+R12 optional für Piezo-Summer
+Text Notes 1750 5850 0    60   ~ 0
+Temp + Rel Feuchte Sensor\n
+Text Notes 1750 6900 0    60   ~ 0
+Lichtsensor\n
+Text Notes 9250 4850 0    60   ~ 0
+UART_WLAN -> normale Kommunikation\nUART_OTA 	-> Over the air flashen\n-------------------------\nFlash STM32:\nBoot0 + ST_NRST + PA15 für Bootloader\n-------------------------\nFlash ESP:\nGPIO0 + ESP_RST für Bootloader
+Wire Wire Line
+	7350 3650 8050 3650
+Text Label 7400 3650 0    60   ~ 0
+PA15
+Wire Wire Line
+	8000 5650 7300 5650
+Text Label 7350 5650 0    60   ~ 0
+PA15
+Text Notes 9600 2750 0    60   ~ 0
+USB für VCOM Port, DFU flashen
+Text Notes 5300 1750 0    60   ~ 0
+RTC Batterie
+Text Notes 9350 3300 0    60   ~ 0
+ESD-Schutz!?
 $EndSCHEMATC
