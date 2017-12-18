@@ -1551,10 +1551,8 @@ Wire Wire Line
 	8000 5450 7300 5450
 Text Label 7350 5450 0    60   ~ 0
 ESP_GPIO0
-Text Label 4500 3850 0    60   ~ 0
+Text Label 3800 3850 0    60   ~ 0
 ESP_GPIO0
-Wire Wire Line
-	4450 3850 5100 3850
 Text Label 7350 5550 0    60   ~ 0
 BOOT0
 Wire Wire Line
@@ -1957,4 +1955,19 @@ F 3 "" H 4300 2150 50  0001 C CNN
 $EndComp
 NoConn ~ 4500 2150
 NoConn ~ 4100 2150
+$Comp
+L R R?
+U 1 1 5A354EE2
+P 4400 3850
+F 0 "R?" V 4480 3850 50  0000 C CNN
+F 1 "100" V 4400 3850 50  0000 C CNN
+F 2 "Resistors_SMD:R_0805_HandSoldering" V 4330 3850 50  0001 C CNN
+F 3 "" H 4400 3850 50  0001 C CNN
+	1    4400 3850
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5100 3850 4550 3850
+Wire Wire Line
+	4250 3850 3800 3850
 $EndSCHEMATC
