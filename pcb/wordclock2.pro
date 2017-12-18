@@ -1,4 +1,4 @@
-update=Sa 23 Sep 2017 18:14:41 CEST
+update=Fr 10 Nov 2017 21:57:00 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -127,3 +127,13 @@ LibName97=libs/MSP430_FireFlyJar/Kicad/FireFlyLid/FireFlyLid-cache
 LibName98=libs/mysensors-kicad/mysensors_sensors
 [general]
 version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
