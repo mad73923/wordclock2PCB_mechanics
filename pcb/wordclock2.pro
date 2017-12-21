@@ -1,4 +1,4 @@
-update=Mo 18 Dez 2017 22:41:58 CET
+update=Do 21 Dez 2017 12:23:32 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -127,3 +127,4 @@ LibName95=libs/stm32L433
 LibName96=libs/kicad-ESP8266/ESP8266
 LibName97=libs/mysensors-kicad/mysensors_sensors
 LibName98=libs/FireFlyLid-cache
+LibName99=micro_sd_card_det
