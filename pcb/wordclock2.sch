@@ -1112,7 +1112,7 @@ Wire Wire Line
 Text Label 7400 4000 0    60   ~ 0
 BUZZ_EN
 Wire Wire Line
-	4250 6900 3500 6900
+	4250 7000 3500 7000
 $Comp
 L GND #PWR29
 U 1 1 5985FEFF
@@ -1125,10 +1125,8 @@ F 3 "" H 4200 7050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4250 7000 4200 7000
-Wire Wire Line
-	4200 7000 4200 7050
-Text Label 3550 6900 0    60   ~ 0
+	4200 6900 4200 7050
+Text Label 3550 7000 0    60   ~ 0
 SD_DET
 Wire Wire Line
 	7350 4100 8050 4100
@@ -2024,4 +2022,6 @@ F 3 "" H 5150 6600 50  0001 C CNN
 	1    5150 6500
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	4200 6900 4250 6900
 $EndSCHEMATC
